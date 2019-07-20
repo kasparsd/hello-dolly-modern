@@ -13,7 +13,7 @@
     }
   },
   "scripts": {
-    "lint": "phpcs --standard=WordPress-Core --extensions=php --ignore=/vendor/ .",
+    "lint": "phpcs .",
     "test": "phpunit --bootstrap tests/bootstrap.php tests/test-hello-dolly.php"
   }
 }

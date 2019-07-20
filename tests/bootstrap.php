@@ -5,4 +5,4 @@
 
 WP_Mock::bootstrap();
 
-include dirname( __DIR__ ) . '/hello.php';
+require dirname( __DIR__ ) . '/hello.php';

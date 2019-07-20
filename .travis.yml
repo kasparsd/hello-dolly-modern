@@ -9,6 +9,7 @@ install:
 script:
   - composer lint
   - composer test
+  - composer validate
 
 notifications:
   email: false

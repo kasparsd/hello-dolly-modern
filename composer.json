@@ -1,5 +1,5 @@
 {
-  "name": "kasparsd/hello-dolly-with-tests",
+  "name": "kasparsd/hello-dolly-modern",
   "description": "An example of how to add PHP unit tests and coding standard checks to legacy WordPress plugins",
   "type": "wordpress-plugin",
   "license": "GPL-2.0-or-later",
